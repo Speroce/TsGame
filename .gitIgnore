@@ -2,4 +2,4 @@ compiled
 tsconfig.json
 *.js
 .vscode
-
+package.json
