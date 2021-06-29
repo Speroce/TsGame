@@ -1,4 +1,4 @@
-dist
+compiled
 tsconfig.json
 *.js
 .vscode
