@@ -1,4 +1,2 @@
-let mлллллin = function() {
-    let message: string = 'Hello, World!';
-    console.log(message);
-}();
+let mess222age: string = 'Hello, World!';
+console.log(mess222age);
