@@ -1,4 +1,4 @@
-var masin = function() {
+let main = function() {
     let message: string = 'Hello, World!';
     console.log(message);
 }();
