@@ -4,4 +4,4 @@ let a: AttackType = {
   type: MagicalAttackType.fire
   }
 
-console.log(a.type, 'fire' === a.type)
+console.log(a.type, 'fire' == a.type)
